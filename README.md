@@ -1,3 +1,6 @@
+<p align="center">
+ <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Profile</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
+
 ## Hello 👋
 
 My name is EL UNICO ANTIVIRUS, I am from Spain and I am SRE.
@@ -24,3 +27,14 @@ My name is EL UNICO ANTIVIRUS, I am from Spain and I am SRE.
 * Find my new web official in my [website 2](https://elunicoantivirus.duckdns.org) : https://elunicoantivirus.duckdns.org
 * Find my website old in my [website 3](https://elunicoantivirusqueprotege.wordpress.com/) : https://elunicoantivirusqueprotege.wordpress.com
 
+
+<br><br>
+<p align="center">
+<i><b>GitHub Stats</b></i>
+ 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elunicoantivirus&theme=dark&show_icons=true" alt="shwetangStats" />  
+  <br />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elunicoantivirus&layout=compact&theme=dark" alt="top-langs" />
+</p>
