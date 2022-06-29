@@ -1,5 +1,11 @@
+
 <p align="center">
- <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Profile</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
+ <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><a href="https://github.com/elunicoantivirus/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=elunicoantivirusv&color=red&style=for-the-badge"></a></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>
+</p>
+ <h1 align="center"> 
+ <a href="https://status.hits.sh"><img alt="Uptime Robot status" src="https://img.shields.io/uptimerobot/status/m788691469-6cb5e6a1ce844e9f64a4b046"></a>
+  <a href="https://status.hits.sh"><img alt="Uptime Robot ratio (30 days)" src="https://img.shields.io/uptimerobot/ratio/m788691469-6cb5e6a1ce844e9f64a4b046"></a>
+</h1>
 
 ## Hello 👋
 
