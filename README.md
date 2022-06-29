@@ -26,9 +26,13 @@ My name is EL UNICO ANTIVIRUS, I am from Spain and I am SRE.
 * Find all of my socials and resume in my [website 1](https://elunicoantivirus.github.io/web/) : https://elunicoantivirus.github.io/web/
 * Find my new web official in my [website 2](https://elunicoantivirus.duckdns.org) : https://elunicoantivirus.duckdns.org
 * Find my website old in my [website 3](https://elunicoantivirusqueprotege.wordpress.com/) : https://elunicoantivirusqueprotege.wordpress.com
+<br>
+<p align="center">
+  • Find in <a href="https://discord.gg/aeHAZfUYBJ">Community Discord Server of Cheets, Spoofer and Account´s</a> •
+  Find in <a href="https://github.com/elunicoantivirus">My Discord: morenocompuestodebueno#6709</a> 
+</p>
 
-
-<br><br>
+<br>
 <p align="center">
 <i><b>GitHub Stats</b></i>
  
