@@ -29,7 +29,7 @@ My name is EL UNICO ANTIVIRUS, I am from Spain and I am SRE.
 
 ## Contact
 
-* Find all of my socials and resume in my [website 1](https://elunicoantivirus.github.io/web/) : https://elunicoantivirus.github.io/web/
+* Find all of my socials and resume in my [website 1](https://elunicoantivirus.github.io/web2/) : https://elunicoantivirus.github.io/web/
 * Find my new web official in my [website 2](https://elunicoantivirus.duckdns.org) : https://elunicoantivirus.duckdns.org
 * Find my website old in my [website 3](https://elunicoantivirusqueprotege.wordpress.com/) : https://elunicoantivirusqueprotege.wordpress.com
 <br>
