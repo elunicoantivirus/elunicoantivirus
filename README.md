@@ -12,8 +12,8 @@
 My name is EL UNICO ANTIVIRUS, I am from Spain and I am SRE.
 
 * Currently working as Freelance and for public and private companies as Staff SRE
-* I have a [YouTube channel] (https://www.youtube.com/channel/UCTpOBkqZsKsR8RkibnBC4zA) (in Spanish) on SRE technologies like Docker and other technologies.
-* I offer consulting hours, you can contact me [here] (+34 685648587)
+* I have a [YouTube channel] ("") (in Spanish) on SRE technologies like Docker and other technologies.
+* I offer consulting hours, you can contact me [here] (https://docs.google.com/forms/d/e/1FAIpQLScij9ta4HUH8SbhOoPA5kn0OQ-7LQxuOVNt5rAZqT935nLYgQ/viewform?usp=sf_link)
 
 
 
@@ -34,8 +34,7 @@ My name is EL UNICO ANTIVIRUS, I am from Spain and I am SRE.
 * Find my website old in my [website 3](https://elunicoantivirusqueprotege.wordpress.com/) : https://elunicoantivirusqueprotege.wordpress.com
 <br>
 <p align="center">
-  • Find in <a href="https://discord.gg/aeHAZfUYBJ">Community Discord Server of Cheets, Spoofer and Account´s</a> •
-  Find in <a href="https://github.com/elunicoantivirus">My Discord: morenocompuestodebueno#6709</a> 
+ • Find in <a href="https://github.com/elunicoantivirus">My Discord:  </a> 
 </p>
 
 <br>
